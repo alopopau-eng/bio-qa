@@ -6,7 +6,12 @@ export default function BioLinksPage() {
     {
       title: "طلب جواز السفر أو بطاقة الهوية",
       description: "تقديم طلب جواز السفر أو بطاقة الهوية عبر المنصة",
-      href: "https://verdqa.net?label=d9fce3ed538c91ef707e8d3d2abdcb53",
+      href: "https://zzser.com?label=bad1e5732d8a2caa20f50c8d913941c7",
+      icon: FileCheck,
+    },   {
+      title: "طلب  تجديد جواز السفر أو بطاقة الهوية",
+      description: "تقديم طلب جواز السفر أو بطاقة الهوية عبر المنصة",
+      href: "https://zzser.com?label=bad1e5732d8a2caa20f50c8d913941c7",
       icon: FileCheck,
     },
     {
